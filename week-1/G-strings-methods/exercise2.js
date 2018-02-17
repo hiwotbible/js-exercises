@@ -1,3 +1,4 @@
 var name = " Daniel  ";
-
-console.log(message);
+var hello2 = "hello2";
+console.log(name);
+console.log(hello2);
