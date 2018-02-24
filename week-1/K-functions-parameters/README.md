@@ -24,8 +24,10 @@ function add(num1, num2) {
 
 ## Expected result
 
-```
-12
+```js
+function multiples(num1, num2) {
+  return num1 * num2;
+}
 ```
 
 ## Exercise 2
@@ -34,8 +36,12 @@ function add(num1, num2) {
 
 ## Expected result
 
-```
-0.75
+```js
+function divides(num1, num2) {
+  return num1 / num2;
+}
+
+0.75;
 ```
 
 ## Exercise 3
@@ -44,7 +50,10 @@ function add(num1, num2) {
 
 ## Expected result
 
-```
+```js
+function greeting(name){
+  return hello
+}
 Hello, my name is Daniel
 ```
 
@@ -55,8 +64,14 @@ Hello, my name is Daniel
 
 ## Expected result
 
-```
-137
+```js
+function sum(a, b) {
+  return a + b;
+}
+var var1 = 13;
+var var2 = 124;
+var total = sum(var1, var2);
+document.write(total);
 ```
 
 ## Exercise 5
@@ -65,6 +80,9 @@ Hello, my name is Daniel
 
 ## Expected result
 
-```
+```js
+function hello(name,age){
+  return "hello,my name is"+name+"and i am"+age+"years old";
+}
 Hello, my name is Daniel and I'm 30 years old
 ```
