@@ -9,6 +9,6 @@ console.log(result); // Expected result 8 - Run the program and make sure it wor
 
 
 // Answer these questions:
-// 1. How many parameters does the function take?
-// 2. What is the function name?
-// 3. Where is the function called? with what parameters?
+// 1. How many parameters does the function take?3parameturs
+// 2. What is the function name?addnumbers
+// 3. Where is the function called? with what parameters?addnumbers(a b c)
