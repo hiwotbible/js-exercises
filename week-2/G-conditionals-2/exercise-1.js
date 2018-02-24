@@ -7,11 +7,15 @@
 */
 
 function negativeOrPositive(number) {
+<<<<<<< HEAD
   if (number >= 0) {
     return "postive";
   } else {
     return "negative";
   }
+=======
+
+>>>>>>> fa8834f9972e8c953a32f868b4ee801678925797
 }
 
 /* 

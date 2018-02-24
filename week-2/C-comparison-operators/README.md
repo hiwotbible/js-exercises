@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 We can also write **expressions** that **evaluate** to boolean values.
+=======
+We can also write **expressions** that return boolean values.
+>>>>>>> fa8834f9972e8c953a32f868b4ee801678925797
 
 Here's an expression that evaulates to a boolean.
 

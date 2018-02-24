@@ -7,12 +7,20 @@
 
 // Finish the predicate function to test if the passed number is negative (less than zero)
 function isNegative(number) {
+<<<<<<< HEAD
   return typeof value === "number";
+=======
+
+>>>>>>> fa8834f9972e8c953a32f868b4ee801678925797
 }
 
 // Finish the predicate function to test if the passed number is between 0 and 10
 function isBetweenZeroAnd10(number) {
+<<<<<<< HEAD
   return number > 0 && number < 10;
+=======
+
+>>>>>>> fa8834f9972e8c953a32f868b4ee801678925797
 }
 
 /* 
@@ -32,3 +40,7 @@ console.log("Is the number between 0 and 10? " + numberBetweenZeroAnd10);
   Is the number negative? false
   Is the number between 0 and 10? true
 */
+<<<<<<< HEAD
+=======
+
+>>>>>>> fa8834f9972e8c953a32f868b4ee801678925797
