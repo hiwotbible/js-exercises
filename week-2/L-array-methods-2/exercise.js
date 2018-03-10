@@ -15,8 +15,8 @@ var everyone = [
   "Swathi"
 ];
 
-var firstFive; // complete this statement
-var lastFive; // complete this statement
+var firstFive = ["Daniel", "Irina", "Rares", "Rukmini", "Abdul"]; // complete this statement
+var lastFive = ["Rares", "Rukmine", "Abaul", "Austine", "Swathi"]; // complete this statement
 
 /* 
   DO NOT EDIT BELOW THIS LINE

@@ -6,7 +6,9 @@
 */
 
 function isEmpty(arr) {
-  return;namespace / complete this statement
+  return true;
+  //return;names;
+  // complete this statement
 }
 
 /* 
@@ -14,6 +16,8 @@ function isEmpty(arr) {
   --------------------------- */
 var numbers = [1, 2, 3];
 var names = [];
+
+var arr = [1, 2];
 
 console.log(isEmpty(arr));
 console.log(isEmpty(names));
