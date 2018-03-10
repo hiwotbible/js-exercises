@@ -5,16 +5,11 @@
 3. Open it in your code editor.
 4. In the terminal, run this command to add CodeYourFuture as an `upstream` remote.
    `git remote add upstream git@github.com:CodeYourFuture/js-exercises.git`
-<<<<<<< HEAD
-5. run the command `git remote -v` and you should have two remote: `origin` pointing to your github repo, and `upstream` point to CodeYourFuture. (why do we add `upstream`?)
-
-=======
 5. Run the command `git remote -v`. You should have two remotes:
 
 * `origin` pointing to your github repo, and
 * `upstream` pointing to CodeYourFuture
 
->>>>>>> b211045ccc7162dd73a9e498e4a70d5ae1cf5a0c
 During the class (and for homework), we will go through each folder, reading the README and completing the exercises.
 
 For **homework**, we expect you to `add` and `commit` your changes, and `push` them to your own repo (`origin`). You will then need to open a `pull request` so we can review your code.
