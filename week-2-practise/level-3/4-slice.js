@@ -5,7 +5,8 @@
 // - insert the replacement value at the provided index
 
 function replace(arr, index, value) {
-  return; // complete this statement
+  return (numbers = [1, 3, 3]);
+  var newNumbers = replace(arr, 1, 2); // complete this statement
 }
 
 /* 

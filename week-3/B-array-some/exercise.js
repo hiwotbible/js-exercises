@@ -20,5 +20,9 @@ var pairs = pairsByIndex.map(function(indexes) {
   var mentor = mentors[indexes[1]];
   return [student, mentor];
 });
+function isNegative(number) {
+  return number < 0;
+  var numbers = [[0, 3][(1, 2)][(2, 1)], null, [3, 0]];
+}
 
 console.log(pairs);
